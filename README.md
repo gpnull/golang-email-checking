@@ -1,3 +1,5 @@
+# golang-email-checking
+
 - domain: Là tên miền (domain name) được nhập vào để kiểm tra.
 - hasMX: Biến boolean để lưu kết quả kiểm tra xem domain có MX record (hồ sơ định tuyến email).
 - hasSPF: Biến boolean để lưu kết quả kiểm tra xem domain có SPF record (hồ sơ kiểm tra nguồn gửi email).
